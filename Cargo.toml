@@ -1,0 +1,16 @@
+[workspace] 
+
+members = [
+    "cargo_test",
+    "communicator",
+    "guessing_game",
+    "hello_cargo",
+    "hello_world",
+    "smart_pointer",
+    "variables",
+    "ch16-01-thread-spawn",
+    "ch16-03-thread-move",
+    "ch16-06-channel",
+    "ch16-10-multiple-message",
+    "ch16-11-multiple-thread-producer",
+]
